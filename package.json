@@ -1,0 +1,43 @@
+{
+	"name": "00thcbin-alwayson",
+	"displayName": "00THCBin Always On",
+	"description": "A Always On collection for development on VS Code by Chetan Bhalothia",
+	"version": "1.0.0",
+	"publisher": "thcbin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/techthatmatters/00thcbin-recommended-1.0.0"
+	},
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"icon": "icon.png",
+	"galleryBanner": {
+		"color": "#39C2D8",
+		"theme": "dark"
+	},
+	"categories": [
+		"Extension Packs"
+	],
+	"keywords": [
+		"extension",
+		"pack",
+		"laravel",
+		"blade",
+		"php",
+		"flutter",
+		"dart",
+		"app",
+		"android",
+		"ios",
+		"snippet"
+	],
+	"extensionPack": [
+		"eamodio.gitlens", 
+        "Equinusocio.vsc-material-theme", 
+        "GitHub.vscode-pull-request-github", 
+        "ms-vscode.notepadplusplus-keybindings", 
+        "PKief.material-icon-theme"
+	]
+
+}
