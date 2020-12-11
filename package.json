@@ -6,7 +6,7 @@
 	"publisher": "thcbin",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/techthatmatters/00thcbin-recommended-1.0.0"
+		"url": "https://github.com/techthatmatters/00thcbin-alwayson-1.0.0"
 	},
 	"engines": {
 		"vscode": "^1.26.0"
