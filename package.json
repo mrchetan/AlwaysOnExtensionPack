@@ -1,7 +1,7 @@
 {
 	"name": "00thcbin-alwayson",
 	"displayName": "00THCBin Always On",
-	"description": "A Always On collection for development on VS Code by Chetan Bhalothia",
+	"description": "An Always On collection for development on VS Code by Chetan Bhalothia",
 	"version": "1.0.0",
 	"publisher": "thcbin",
 	"repository": {
