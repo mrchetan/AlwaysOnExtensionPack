@@ -2,7 +2,7 @@
 	"name": "00thcbin-alwayson",
 	"displayName": "00 THCBin Always On Extension Pack",
 	"description": "An Always On collection for development in all language on VS Code by Chetan Bhalothia",
-	"version": "1.0.2",
+	"version": "1.1.0",
 	"publisher": "techthatmatters",
 	"repository": {
 		"type": "git",
@@ -33,10 +33,12 @@
 		"snippet"
 	],
 	"extensionPack": [
+		"donjayamanne.githistory", 
 		"eamodio.gitlens", 
+        "mhutchie.git-graph", 
         "GitHub.vscode-pull-request-github", 
         "ms-vscode.notepadplusplus-keybindings", 
-        "Equinusocio.vsc-material-theme", 
+        "Equinusocio.vsc-community-material-theme", 
         "PKief.material-icon-theme"
 	]
 
