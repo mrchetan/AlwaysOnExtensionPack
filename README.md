@@ -17,7 +17,7 @@ This extension pack includes the following extensions:
 
 * [Notepad++ keymap](https://marketplace.visualstudio.com/items?itemName=ms-vscode.notepadplusplus-keybindings) - Popular Notepad++ keybindings for Visual Studio Code.
 
-* [Community Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-community-material-theme) - The official community maintained Material Theme with 'legacy' color schemes you love!
+* [Material Theme](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme) - The most epic theme now for Visual Studio Code
 
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 

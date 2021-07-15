@@ -14,3 +14,6 @@
 ## [1.1]
 
 - Add new extensions
+## [1.1.1]
+
+- Update extensions
