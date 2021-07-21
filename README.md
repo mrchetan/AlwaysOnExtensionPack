@@ -1,6 +1,6 @@
-## Always On collection by Chetan Bhalothia
+## Always On collection by Mr Chetan
 
-An Always On collection for development in all language on VS Code by Chetan Bhalothia
+An Always On collection for development in all language on VS Code by Mr Chetan (Chetan Bhalothia)
 
 VS Code extension pack help to create a your apps and website.
 ## Included
@@ -27,6 +27,6 @@ This extension pack includes the following extensions:
 
 ### For more information
 
-* [Contact THCBin](https://thcb.in/)
+* [Contact Mr Chetan](https://mrchetan.com/)
 
 **Enjoy Chetan's Extension Pack!**
