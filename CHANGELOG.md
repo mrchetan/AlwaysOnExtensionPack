@@ -17,3 +17,6 @@
 ## [1.1.1]
 
 - Update extensions
+## [1.1.1]
+
+- GitHub Copilot extensions add
