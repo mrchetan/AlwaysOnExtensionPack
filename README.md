@@ -27,6 +27,8 @@ This extension pack includes the following extensions:
 
 * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) - Material Design Icons for Visual Studio Code.
 
+* [Todo Tree](https://marketplace.visualstudio.com/items?itemName=gruntfuggly.todo-tree) - Show TODO, FIXME, etc. comment tags in a tree view.
+
 <br>
 
 ### For more information
