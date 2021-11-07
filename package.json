@@ -2,7 +2,7 @@
 	"name": "alwayson",
 	"displayName": "00 Mr Chetan Always On Extension Pack",
 	"description": "An Always On collection for development in all language on VS Code by Chetan Bhalothia",
-	"version": "1.2.0",
+	"version": "1.2.1",
 	"publisher": "MrChetan",
 	"repository": {
 		"type": "git",
@@ -39,8 +39,7 @@
 		"donjayamanne.githistory", 
 		"eamodio.gitlens", 
         "mhutchie.git-graph", 
-        "GitHub.vscode-pull-request-github", 
-        "ms-vscode.notepadplusplus-keybindings", 
+        "GitHub.vscode-pull-request-github",
         "Equinusocio.vsc-material-theme", 
         "PKief.material-icon-theme",
 		"gruntfuggly.todo-tree"
