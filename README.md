@@ -7,11 +7,21 @@ VS Code extension pack help to create a your apps and website.
 
 This extension pack includes the following extensions:
 
+* [AWS Toolkit](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-toolkit-vscode) - Including support for CodeWhisperer, CodeCatalyst, Lambda, S3, CloudWatch Logs, and many other services
+
 * [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling checker for source code
 
 * [File Utils](https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils) - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.
 
 * [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - Your AI pair programmer
+
+* [GitHub Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub) - A voice assistant for VS Code
+
+* [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) - GitHub Actions workflows and runs for github.com hosted repositories in VS Code
+
+* [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) - Your instant dev environment
+
+* [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs) - Experimental features for GitHub Copilot
 
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
 
