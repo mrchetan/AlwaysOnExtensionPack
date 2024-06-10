@@ -9,7 +9,7 @@
 		"url": "https://github.com/mrchetan/AlwaysOnExtensionPack"
 	},
 	"engines": {
-		"vscode": "^1.26.0"
+		"vscode": "^1.90.0"
 	},
 	"icon": "icon.png",
 	"galleryBanner": {
