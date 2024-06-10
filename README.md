@@ -17,13 +17,9 @@ This extension pack includes the following extensions:
 
 * [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat) - AI chat features powered by Copilot
 
-* [GitHub Copilot Voice](https://marketplace.visualstudio.com/items?itemName=GitHub.heygithub) - A voice assistant for VS Code
-
 * [GitHub Actions](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-github-actions) - GitHub Actions workflows and runs for github.com hosted repositories in VS Code
 
 * [GitHub Codespaces](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces) - Your instant dev environment
-
-* [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs) - Experimental features for GitHub Copilot
 
 * [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) - View git log, file history, compare branches or commits
 

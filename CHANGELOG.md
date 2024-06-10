@@ -1,5 +1,9 @@
 # Change Log
 
+## [1.5.0]
+
+- Remove deprecated extensions `GitHub Copilot Voice` and `GitHub Copilot Labs`
+
 ## [1.4.0]
 
 - Add Extension  `GitHub Copilot Chat`
